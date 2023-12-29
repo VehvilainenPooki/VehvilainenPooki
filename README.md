@@ -7,6 +7,6 @@
 </a>
 
 ### About
-I'm a University of Helsinki Computer Science student I have a minor in adult education. I enjoy helping others and solving problems.
+I'm a University of Helsinki Computer Science student. I have a minor in adult education. I enjoy helping others and solving problems.
 I like making games, powershell scripts, UI, algorithms and especially making them work together. My hobbies include climbing, parkour, pixelart, piano and gaming.
 I value clear communication, steady progress, integrity and  tenacity.

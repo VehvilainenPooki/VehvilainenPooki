@@ -18,16 +18,16 @@ __________
 
 ### [AlgoritmitJaTekoaly](https://github.com/VehvilainenPooki/AlgoritmitJaTekoaly) <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="50">
 ###### Code and documentation in finnish
-An audio processing app that uses fast fourier transform to detect the strongest signal in the file.
+Audio signal processing application using Tkinter and implementing FFT.
 
 __________
 
 ### [OTProjekti](https://github.com/VehvilainenPooki/OTProjekti) <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="50">
 ###### Code and documentation in english
-Start of a payload mission game.
+Start of a payload mission game using Pygame.
 
 __________
 
-### [KoeSovellus](https://github.com/VehvilainenPooki/KoeSovellus) <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="50"> 
-###### Code in english documentation in finnish
-An Exam web platform that uses PostgreSQL to store the data.
+### [KoeSovellus](https://github.com/VehvilainenPooki/KoeSovellus) <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="50"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" width="60"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" width="50"> 
+###### Code in english and documentation in finnish
+An Exam web platform using PostgreSQL and Flask.

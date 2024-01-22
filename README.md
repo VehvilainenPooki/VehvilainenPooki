@@ -1,10 +1,10 @@
 ## Hi there 👋
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VehvilainenPooki&hide=prs,stars&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VehvilainenPooki&hide=prs,stars&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&card_width=300" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VehvilainenPooki&theme=tokyonight&card_width=320" />
-</a>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VehvilainenPooki&theme=tokyonight&card_width=488)
 
 ## About
 I'm a University of Helsinki Computer Science student. I have a minor in adult education. I enjoy helping others and solving problems.
